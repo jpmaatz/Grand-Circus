@@ -104,15 +104,15 @@ img {
         width:100%;
     
     }
-    h2 {
-        font-size: 1.3em;
-    }
     main {
         margin-top: 17%;
        
     }
     .main-text {
         width:100%;
+    }
+    h2 {
+        font-size: 1.3em;
     }
  
 }
